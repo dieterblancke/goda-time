@@ -1,4 +1,4 @@
-This repository is a fork of goda-time in order to fix a compilation issue regarding the LogConfiguration in GWT.
+This repository is a fork of goda-time in order to fix a GWT compilation issue regarding the LogConfiguration in GWT.
 
 ## Goda-time - fork for use with GWT and maven
 
