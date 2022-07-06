@@ -15,8 +15,6 @@
  */
 package org.goda.time.chrono;
 
-import java.util.Locale;
-
 import org.goda.time.Chronology;
 import org.goda.time.DateTimeConstants;
 import org.goda.time.DateTimeField;
@@ -32,6 +30,8 @@ import org.goda.time.field.OffsetDateTimeField;
 import org.goda.time.field.PreciseDateTimeField;
 import org.goda.time.field.PreciseDurationField;
 import org.goda.time.field.RemainderDateTimeField;
+
+import java.util.Locale;
 
 /**
  * Abstract implementation for calendar systems that use a typical

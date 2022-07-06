@@ -15,13 +15,13 @@
  */
 package org.goda.time.format;
 
-import java.util.Locale;
-
 import org.goda.time.MutablePeriod;
 import org.goda.time.Period;
 import org.goda.time.PeriodType;
 import org.goda.time.ReadWritablePeriod;
 import org.goda.time.ReadablePeriod;
+
+import java.util.Locale;
 
 /**
  * Controls the printing and parsing of a time period to and from a string.

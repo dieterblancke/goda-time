@@ -15,9 +15,9 @@
  */
 package org.goda.time.format;
 
-import java.util.Locale;
-
 import org.goda.time.ReadWritablePeriod;
+
+import java.util.Locale;
 
 /**
  * Internal interface for parsing textual representations of time periods.

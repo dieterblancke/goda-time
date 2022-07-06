@@ -16,11 +16,10 @@
 package org.goda.time.chrono;
 
 import java.util.HashMap;
-import java.util.Locale;
 
+import java.util.Locale;
 import java.util.Map;
 import org.goda.time.Chronology;
-import org.goda.time.DateTime;
 import org.goda.time.DateTimeConstants;
 import org.goda.time.DateTimeField;
 import org.goda.time.DateTimeZone;

@@ -15,11 +15,11 @@
  */
 package org.goda.time.format;
 
-import java.util.Locale;
-
 import org.goda.time.Chronology;
 import org.goda.time.DateTimeZone;
 import org.goda.time.ReadablePartial;
+
+import java.util.Locale;
 
 /**
  * Internal interface for creating textual representations of datetimes.

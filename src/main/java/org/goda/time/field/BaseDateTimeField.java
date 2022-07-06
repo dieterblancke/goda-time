@@ -15,13 +15,13 @@
  */
 package org.goda.time.field;
 
-import java.util.Locale;
-
 import org.goda.time.DateTimeField;
 import org.goda.time.DateTimeFieldType;
 import org.goda.time.DurationField;
 import org.goda.time.IllegalFieldValueException;
 import org.goda.time.ReadablePartial;
+
+import java.util.Locale;
 
 /**
  * BaseDateTimeField provides the common behaviour for DateTimeField

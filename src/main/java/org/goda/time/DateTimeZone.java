@@ -17,11 +17,7 @@ package org.goda.time;
 
 import com.google.gwt.core.client.GWT;
 import java.io.Serializable;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Locale;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 import org.goda.time.chrono.BaseChronology;
 import org.goda.time.chrono.ISOChronology;

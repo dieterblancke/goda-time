@@ -15,8 +15,6 @@
  */
 package org.goda.time.chrono;
 
-import java.util.Locale;
-
 import org.goda.time.DateTimeConstants;
 import org.goda.time.DateTimeFieldType;
 import org.goda.time.DurationField;
@@ -24,6 +22,8 @@ import org.goda.time.DurationFieldType;
 import org.goda.time.field.BaseDateTimeField;
 import org.goda.time.field.FieldUtils;
 import org.goda.time.field.UnsupportedDurationField;
+
+import java.util.Locale;
 
 /**
  * Provides time calculations for the era component of time.

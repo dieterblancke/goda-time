@@ -16,12 +16,8 @@
 package org.goda.time.format;
 
 import org.goda.util.ArrayUtils;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Locale;
-import java.util.Set;
-import java.util.TreeSet;
+
+import java.util.*;
 
 import org.goda.util.CollectionUtils;
 import org.goda.time.DateTimeConstants;

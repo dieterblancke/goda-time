@@ -15,12 +15,11 @@
  */
 package org.goda.time.base;
 
-import java.util.Locale;
-
 import org.goda.time.DateTimeFieldType;
-import org.goda.time.DateTimeZone;
 import org.goda.time.ReadableDateTime;
 import org.goda.time.format.DateTimeFormat;
+
+import java.util.Locale;
 
 /**
  * AbstractDateTime provides the common behaviour for datetime classes.

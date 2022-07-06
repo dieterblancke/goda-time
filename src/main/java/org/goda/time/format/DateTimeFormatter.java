@@ -15,8 +15,6 @@
  */
 package org.goda.time.format;
 
-import java.util.Locale;
-
 import org.goda.time.Chronology;
 import org.goda.time.DateTime;
 import org.goda.time.DateTimeUtils;
@@ -25,6 +23,8 @@ import org.goda.time.MutableDateTime;
 import org.goda.time.ReadWritableInstant;
 import org.goda.time.ReadableInstant;
 import org.goda.time.ReadablePartial;
+
+import java.util.Locale;
 
 /**
  * Controls the printing and parsing of a datetime to and from a string.

@@ -15,12 +15,12 @@
  */
 package org.goda.time.chrono;
 
-import java.util.Locale;
-
 import org.goda.time.DateTimeConstants;
 import org.goda.time.DateTimeFieldType;
 import org.goda.time.DurationField;
 import org.goda.time.field.PreciseDurationDateTimeField;
+
+import java.util.Locale;
 
 /**
  * GJDayOfWeekDateTimeField provides time calculations for the
