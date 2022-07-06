@@ -1,3 +1,5 @@
+This repository is a fork of goda-time in order to fix a compilation issue regarding the LogConfiguration in GWT.
+
 ## Goda-time - fork for use with GWT and maven
 
 [Goda-time](https://code.google.com/p/goda-time/) is a modified version of Joda-time, which works with the restricted Java API of GWT.
